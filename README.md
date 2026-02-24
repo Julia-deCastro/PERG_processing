@@ -4,10 +4,8 @@ Este repositório contém o código-fonte e o trabalho de conclusão de curso (T
 
 **"Análise e classificação de sinais de eletrorretinograma utilizando regressão logística aplicada a parâmetros morfológicos e estatísticos"**
 
-Desenvolvido por **Júlia de Castro**
-
-Orientado por **Prof. Danilo Barbosa Melges**
-
+Desenvolvido por **Júlia de Castro**<br>
+Orientado por **Prof. Danilo Barbosa Melges** (DEE/UFMG)<br>
 Curso de Engenharia de Controle e Automação – UFMG  
 Laboratório de Engenharia Biomédica (LEB)  
 Novembro de 2025
@@ -87,10 +85,8 @@ Os resultados indicam que a metodologia é promissora para distinguir sinais nor
 
 ## 🗂 Estrutura do Repositório
 
-📁 codigos/
-
-📄 TCC_JuliaDeCastro.pdf
-
+📁 codigos/<br>
+📄 TCC_JuliaDeCastro.pdf<br>
 📄 README.md
 
 ---
